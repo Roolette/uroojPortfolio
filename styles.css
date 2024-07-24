@@ -1,0 +1,36 @@
+/* Styles for service-item */
+.service-item {
+    text-align: center; /* Center align text */
+  }
+  
+  .service-icon {
+    font-size: 3em; /* Adjust icon size */
+    color: #555; /* Icon color */
+    margin-bottom: 10px; /* Space below the icon */
+  }
+  
+  .service-item h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .service-item p {
+    font-size: 1em;
+    color: #666;
+  }
+  
+  .service-item ul {
+    padding-left: 0; /* Remove default padding */
+  }
+  
+  .service-item ul li {
+    list-style-type: none; /* Remove default list styling */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .service-item ul li:hover {
+    color: transparent; /* Make text color invisible on hover */
+  }
+  
